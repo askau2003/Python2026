@@ -32,4 +32,4 @@ I kurset bruger vi følgende software.
 * [Python](https://www.python.org/downloads/)
 * [VS Code](https://code.visualstudio.com/download) 
 * Git & Github
-* Headphones (der er en del videoer i forbindelse med undervisningen og dem skal i kunne se uden at forstyrre alle andre i klassen).
+* Headphones (der vil være videoer som du skal se i forbindelse med undervisningen og dem skal i kunne se uden at forstyrre andre i klassen).
