@@ -21,5 +21,5 @@ Skim følgende sider igennem
 Undervisning i dag handler overordnet om at kunne arbejde med backend JSON API'er.      
 Vi kigger på 2 forskellige frameworks: først `Flask` og herefter `FastAPI`, og den database vi kommer til at bruge er en `sqlite3` database.     
 
- 
+* [todo frontend javascript](https://github.com/python-elective-kea/todo_frontend_javascript) 
 
