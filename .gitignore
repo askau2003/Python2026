@@ -41,3 +41,8 @@ materialer/eksamensprojekt/
 #materialer/mistral-vibe/
 #materialer/vectordb
 
+
+# Databases
+*.db
+
+
