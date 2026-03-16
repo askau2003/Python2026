@@ -13,7 +13,7 @@ Vi vil først gennemgå de basale dele af dokumentetionen og herefter laver i et
 
 ## Dagen i dag
 
-* [Streamlit Tutorial](https://github.com/python-elective-kea/streamlit_demo/blob/main/tutorial.md)
+* [Streamlit Tutorial](tutorial.md)
 * [Streamlit Requests Tutorial](tutorial_streamlit_requests.md)
 * [Demo fra klassen](https://github.com/python-elective-kea/streamlit_demo/tree/main)
 
