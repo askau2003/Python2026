@@ -12,9 +12,8 @@ Vi vil først gennemgå de basale dele af dokumentetionen og herefter laver i et
 * Brainstorm over ideer til hvilket projekt du vil kunne lave med dette framework. 
 
 ## Dagen i dag
-* Vi starter med en gennemgang af dokumentationen [Streamlit.io](https://streamlit.io/) og laver nogle mindre øvelser.
-* Herefter laver i jeres eget projekt (som evt. vil kunne være jeres eksamensprojekt) 
 
+* [Streamlit Tutorial](https://github.com/python-elective-kea/streamlit_demo/blob/main/tutorial.md)
 * [Streamlit Requests Tutorial](tutorial_streamlit_requests.md)
 * [Demo fra klassen](https://github.com/python-elective-kea/streamlit_demo/tree/main)
 
