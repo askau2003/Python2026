@@ -15,9 +15,9 @@
 |         |         | Påskeferie                                                                                 |
 |    9    |   7/4   | [Dataanalyse med pandas, GeoPandas og matplotlib]() |
 |   10    |  14/4   | [Testing, linting og Code Quality]() |
-|   11    |  21/4   | Emne kommer senere |
-|   12    |  28/4   | Emne kommer senere |
-|   13    |  5/5    | Emne kommer senere |
+|   11    |  21/4   | White Hat Hacking with python |
+|   12    |  28/4   | White Hat Hacking with python|
+|   13    |  5/5    | White Hat Hacking with python |
 |   14    |  12/5   | [Obligatorisk opgave 2](materialer/obligatoriske/obligatorisk_2.md)                                 |
 |   15    |  19/5   | [Eksamensforberedelse og vejledning](materialer/eksamensprojekt/eksamensprojekt.md)|
 |   16    |  26/5   | [Eksamensforberedelse og vejledning](materialer/eksamensprojekt/eksamensprojekt.md)  |
