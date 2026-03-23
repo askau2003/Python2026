@@ -19,13 +19,15 @@ Vi vil først gennemgå de basale dele af dokumentetionen og herefter laver i et
 
 ### Øvelser
 
+---
+
 #### Streamlit TODO app
 Lav en Streamlit TODO frontend baseret på denne backend som vi lavede sidste uge:
 
 * [http://20.100.199.144/docs](http://20.100.199.144/docs)
 * [http://20.100.199.144/redoc](http://20.100.199.144/redoc)
 
-
+---
 
 #### Mock-up øvelse 
 Lav en applikation der ligner den du kan se på billedet herunder.
