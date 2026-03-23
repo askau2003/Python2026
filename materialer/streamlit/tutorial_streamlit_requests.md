@@ -2,11 +2,6 @@
 
 This tutorial will guide you through creating a Streamlit application that reads data from an external API.
 
-## Prerequisites
-- Python 3.7+
-- Streamlit
-- Requests library
-
 ## Step 1: Install Required Packages
 
 First, install the necessary packages:
