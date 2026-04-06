@@ -44,7 +44,7 @@ OBS: Han starter  med at beskrive et modul der skal installeres (SciencePlots). 
 
 Vi kigger på hvordan man kan lave et plot som dette:
 
-![](../assets/big-o.png)
+![](assets/big-o.png)
 
 * Kode fra undervisningen kan i finde [her](../materialer/ses10/)
 
@@ -72,7 +72,7 @@ Du skal lave koden der generer disse plots. Kom så tæt på denne illustration 
 
 (Tip: [brug dokumentationen for matplotlib](https://matplotlib.org/stable/plot_types/index.html))
 
-![](../assets/plot_opgave.png)
+![](assets/plot_opgave.png)
 
 
 
