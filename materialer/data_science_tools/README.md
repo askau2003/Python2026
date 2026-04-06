@@ -1,5 +1,5 @@
 # Data Science Tools: Numpy, Pandas og Matplotlib: Intro til moduler
-![](../assests/vector_matrix_tensor.png)
+![](assests/vector_matrix_tensor.png)
 
 I dag tager vi hul på dataanalyse delen af dette valgfag. Vi starter med at lære 2 biblioteker at kende: **Numpy** og **Matplotlib**. Numpy er et akronym for "Numerical Python" og "Matplotlib" kunne vel tolkes som "Mathmatical Plotting Library" ( selvom det mere korrekt er "MATLAB plotting Library").
 
