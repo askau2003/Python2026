@@ -8,7 +8,8 @@
 Ingen forberedelse til idag.
 
 ## Dagen i dag
-Vi starter med et overblik over Pandas biblioteket og dets metoder og muligheder. 
+Vi starter med et overblik over Pandas biblioteket og dets metoder og muligheder.     
+Herefter kigger vi på hvordan vi kan implementere det i Streamlit.    
 
 ## Materiale
 * [Pandas](https://www.w3schools.com/python/pandas/default.asp)
