@@ -1,33 +1,39 @@
-# Introduktion til Python efterår 2025    
+# Introduktion til Python forår 2026    
 
 ## Lektionsplan
-<!--
-<img src="materialer/formalia/adobe-express-qr-code.png" align="right" width="300">
--->
-| Lektion |   Dato   | Emne                                                                              |
-|:-------:|:--------:|:----------------------------------------------------------------------------------|
-|    1    |   28/8   | [Introduktion til python](materialer/introduktion/introduktion.md)               |
-|    2    |   1/9    | [Datastrukture (Lister og tuples)](materialer/datastrukturer1/datastrukture1.md) |
-|    3    |   8/9    | [Datastrukture \{sets og dictionaries\}](materialer/datastrukturer2/datastrukture2.md) |
-|    4    |   15/9   | [Python - modules, virtual environmnets, requirements.txt](materialer/moduler/moduler.md) |
-|    5    |   22/9   | [Obligatorisk opgave](materialer/obligatoriske/obligatorisk_1.md) (Online vejledning via Teams)               |
-|    6    |   29/9   | [Udsagnslogik](materialer/logik/logik.md)                            |
-|    7    |   6/10   | [Betingelser (boolean logik)](materialer/boolean/boolean.md)                     |
-|         |          | Efterårsferie                                                                     |
-|    8    |  20/10   | [Funktioner & Decorators](materialer/decorators/decorators.md)                   |
-|    9    |  28/10   | [Pythonic OOP](materialer/oop/oop.md)                                            |
-|   10    |   4/11   | [Pythons datamodel](materialer/datamodel/datamodel.md)                           |
-|   11    |  11/11   | [Generators](materialer/generators/generators.md)                                |
-|   12    |  17/11   | [Context managers](materialer/context_managers/context_managers.md)                                                  |
-|   13    |  24/11   | [Obligatorisk opgave 2](materialer/obligatoriske/obligatorisk_2.md)                                 |
-|   14    |   1/12   | [Eksamensforberedelse og vejledning](materialer/eksamensprojekt/eksamensprojekt.md)|
-|   15    |   8/12   | [Eksamensforberedelse og vejledning](materialer/eksamensprojekt/eksamensprojekt.md)  |
+
+| Lektion |   Dato  | Emne                                                                              |
+|:-------:|:-------:|:----------------------------------------------------------------------------------|
+|    1    |   27/1  | [Introduktion til python](materialer/introduktion/introduktion.md)|
+|    2    |   10/2  | [Modules, virtual environmnets, requirements.txt, environment variables](materialer/moduler/moduler.md) |
+|    3    |   17/2  | [Mistral & mistral-vibe](materialer/mistral-vibe/introduktion.md) |
+|    4    |   24/2  | [~~Vector Databaser, Embeddings og søgefunktionalitet~~](materialer/vectordb/README.md)|
+|    5    |   3/3  | [Obligatorisk opgave 1](materialer/obligatoriske/obligatorisk_1.md) (Online - ingen undervisning)  |
+|    6    |   10/3   | [Web frameworks - Flask, FatsAPI](/materialer/web_frameworks/README.md)|
+|    7    |  17/3   | [Streamlit frontend](materialer/streamlit/README.md) |
+|    8    |  24/3   |  [Streamlit frontend](materialer/streamlit/README.md)                 |
+|         |         | Påskeferie                                                                                 |
+|    8    |  24/3   | [Data Science Tools: Numpy, Pandas og Matplotlib: Intro til moduler](materialer/data_science_tools/README.md)|
+|    9    |   7/4   | [Dataanalyse med pandas, GeoPandas og matplotlib](materialer/data_science_tools_II/README.md) |
+|   10    |  14/4   | [Testing, linting og Code Quality]() |
+|   11    |  21/4   | White Hat Hacking with python |
+|   12    |  28/4   | White Hat Hacking with python|
+|   13    |  5/5    | White Hat Hacking with python |
+|   14    |  12/5   | [Obligatorisk opgave 2](materialer/obligatoriske/obligatorisk_2.md)                                 |
+|   15    |  19/5   | [Eksamensforberedelse og vejledning](materialer/eksamensprojekt/eksamensprojekt.md)|
+|   16    |  26/5   | [Eksamensforberedelse og vejledning](materialer/eksamensprojekt/eksamensprojekt.md)  |
 
 ## Om valgfaget
 * [Læs mere om vagfaget her](materialer/formalia/about_this_elective.md)
 
 ## Eksamen
 * [Eksamensbeskrivelse](materialer/formalia/exam.md)
+
 <!--
-* [Eksamen i dette valgfag er beskrevet her](materialer/formalia/exam.md)
+[Context managers](materialer/context_managers/context_managers.md)                                                  
+[Generators](materialer/generators/generators.md)                                
+[Pythonic OOP](materialer/oop/oop.md)                                            
+[Funktioner & Decorators](materialer/decorators/decorators.md)                   
+[Pythons datamodel](materialer/datamodel/datamodel.md)                           
+[Udsagnslogik](materialer/logik/logik.md)                            
 -->

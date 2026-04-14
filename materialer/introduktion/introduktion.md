@@ -2,9 +2,9 @@
 
 Velkommen til den første undervisningsgang i valgfaget “Introduktion til Python”. I dag er en “kom i gang” dag, hvor målet er, at I skal have et overblik over forløbet. I skal efter i dag vide, hvad I kommer til at lære, og hvordan I kommer til at lære det. Vi kigger også på, hvad I skal kunne til den afsluttende eksamen, og hvordan eksamenen kommer til at foregå. Alle sådanne praktiske informationer går vi igennem i dag.
 
-Alt materialet til dette valgfag ligger på dette website. Hver undervisningsgang, eller session, har en side. Sessionerne kan I se i menuen til venstre.
+Alt materialet til dette valgfag ligger på dette repository. Hver undervisningsgang, eller session, har en side. Sessionerne kan I se i menuen til venstre.
 
-Siderne er alle bygget op som den, I læser nu. Meningen er, at I, i god tid inden undervisningen, skal læse fra oven på siden og indtil vi når til punktet “Dagen i dag”. Fra “Dagen i dag” og siden ned, er det, vi laver i klasselokalet.
+Siderne er alle bygget op som den, I læser nu. Meningen er, at I, i inden undervisningen, skal læse fra oven på siden og indtil vi når til punktet “Dagen i dag”. Fra “Dagen i dag” og siden ned, er det, vi laver i klasselokalet og efter undervisningen.
 
 Noget af det første, I støder på, er læringsmålene. Læringsmålene er, som de antyder, det, I kan forvente (og som I forventes) at kunne, når dagen/ugen er omme. For denne session ser læringsmålene sådan ud:
 
@@ -16,19 +16,6 @@ Efter denne uge vil du:
 - Have en overordnet forståelse for forskellige Python-udviklingsmiljøer (development environments) og vide, hvordan du skal bruge dem.
 - Være i stand til at arbejde med Python-strings, betingelser og funktioner.
 
-Måden, I skal bruge dem på, er dels til at få et overblik over sessionen, dels til at tjekke jeres egen læring.
-
-Så hvis et læringsmål siger:
-- Have en overordnet forståelse for forskellige Python-udviklingsmiljøer (development environments) og vide, hvordan I skal bruge dem.
-
-Skal I gerne vide, at vi bruger VS Code i dette valgfag, og i VS Code laver man en `script.py`-fil med Python-kode, og man eksekverer koden ved at skrive `python3 script.py` i terminalen. Hvis I for eksempel ikke har helt styr på, hvordan de to andre muligheder, vi har gennemgået, bruges, skal I bruge lidt mere tid på at undersøge det.
-
-Når I kommer til eksamenen i slutningen af dette semester, er det også disse læringsmål plus alle andre læringsmål fra de andre sessioner, I vil blive vurderet på i hvor høj grad I opfylder dem eller ej.
-
-Så "overblik" er overskriften på den første del af denne dag.
-
-I den anden del skal vi i gang med at kode. I vil begynde at blive fortrolige med sproget og udviklingsmiljøet. I denne første session vil vi fokusere på strenge og strengmanipulationer, betingelser og funktioner.
-
 ## Forberedelse
 
 Inden vi mødes skal i have installeret:
@@ -39,8 +26,7 @@ Inden vi mødes skal i have installeret:
 
 ## Dagen i dag
 
-Vi starter med at gå igennem disse 
-* [slides.ipynb](slides_intro.ipynb)
+Vi starter med at kigge på materialet for i dag og for semesteret generelt. Herefter kigger vi på hvordan i skal arbejde med python i VS Code.
 
 Vi kommer i sidste halvdel af dagen til at arbejde med disse sprogelementer. (brug link som et opslagsværk):
 * [Python Glossary - variable](https://realpython.com/ref/glossary/variable/)
@@ -55,21 +41,22 @@ Vi kommer i sidste halvdel af dagen til at arbejde med disse sprogelementer. (br
 * [Python Glossary - elif](https://realpython.com/ref/keywords/elif/) 
 * [Built-in Functions](https://docs.python.org/3/library/functions.html)
 
-Derudover kommer vi til at berører emenrne i disse links og artikler:
-* [Is Python interpreted or compiled? Yes.](https://nedbatchelder.com/blog/201803/is_python_interpreted_or_compiled_yes.html)
-* [Strings and Character Data in Python](https://realpython.com/python-strings/)
-* [The PyCoder’s Weekly](https://pycoders.com/issues/687)
-
 Og i kan finde koden fra tavlen i dag her:
 * [Kode fra undervisningen](kode_fra_undervisning.ipynb)
 
 ### Øvelser
-* [Notebook getting started](https://github.com/python-elective-kea/fall2023-code-examples-from-teachings/blob/master/ses1/playground.ipynb)
+I undervisningen arbejder vi med disse 2 øvelser:
+
 * [Strings1](string1.ipynb)
 * [String2](string2.ipynb)
-* ([Løsninger](solutions)(kan ses i morgen))
 
-#### Quizes
+Inden næste gang skal i have gennemgået denne tutorial:
 
-* [Python Strings and Character Data Quiz](https://realpython.com/quizzes/python-strings/)
-* [Splitting, Concatenating, and Joining Strings in Python Quiz](https://realpython.com/quizzes/python-split-strings/)
+* [Hello, Python](https://www.kaggle.com/code/colinmorris/hello-python)
+
+Og i kan med fordel lave disse øvelser (men det er dog "optional")
+
+* [Øvelse: list1](list1.ipynb)
+* [Øvelse: list2](list2.ipynb)
+
+
