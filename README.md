@@ -17,7 +17,7 @@
 |    9    |  14/4   | [Dataanalyse med pandas, GeoPandas og matplotlib](materialer/data_science_tools_II/README.md) |
 |   10    |  21/4   | [Testing, linting og Code Quality]() |
 |   11    |  28/4   | White Hat Hacking with python |
-|   12    |  5/5   |[Obligatorisk opgave 2] (materialer/obligatoriske/obligatorisk_2.md) |
+|   12    |  5/5   |[Obligatorisk opgave 2](materialer/obligatoriske/obligatorisk_2.md) |
 |   13    | 12/5    | [Eksamensforberedelse og vejledning](materialer/eksamensprojekt/eksamensprojekt.md) |
 |   14    |  19/5   |  [Eksamensforberedelse og vejledning](materialer/eksamensprojekt/eksamensprojekt.md)                               |
 |   15    |  26/5   | [Eksamensforberedelse og vejledning](materialer/eksamensprojekt/eksamensprojekt.md)|
